@@ -1,6 +1,4 @@
 import * as React from 'react';
-import * as ReactDOM from "react-dom";
-
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
@@ -49,9 +47,9 @@ export function Chart() {
                     </TableHead>
                     <TableBody>
                         { rows.map(row => (
-                            <TableRow key={row.ingredient}>
+                            <TableRow key={row.name}>
                                 <TableCell component="th" scope="row">
-                                    {row.ingredient}
+                                    {row.name}
                                 </TableCell>
                                 <TableCell align="right">
                                     <TextField id="filled-basic" type="number" label="Percent" />
