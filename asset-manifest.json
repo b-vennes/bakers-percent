@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bakers-percent/static/css/main.8b084fcb.chunk.css",
+    "main.js": "/bakers-percent/static/js/main.499143fc.chunk.js",
+    "main.js.map": "/bakers-percent/static/js/main.499143fc.chunk.js.map",
+    "runtime-main.js": "/bakers-percent/static/js/runtime-main.7cc2ee23.js",
+    "runtime-main.js.map": "/bakers-percent/static/js/runtime-main.7cc2ee23.js.map",
+    "static/js/2.56771d9a.chunk.js": "/bakers-percent/static/js/2.56771d9a.chunk.js",
+    "static/js/2.56771d9a.chunk.js.map": "/bakers-percent/static/js/2.56771d9a.chunk.js.map",
+    "index.html": "/bakers-percent/index.html",
+    "precache-manifest.8166efcece171e49efb1e72b201829c8.js": "/bakers-percent/precache-manifest.8166efcece171e49efb1e72b201829c8.js",
+    "service-worker.js": "/bakers-percent/service-worker.js",
+    "static/css/main.8b084fcb.chunk.css.map": "/bakers-percent/static/css/main.8b084fcb.chunk.css.map",
+    "static/js/2.56771d9a.chunk.js.LICENSE.txt": "/bakers-percent/static/js/2.56771d9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc2ee23.js",
+    "static/js/2.56771d9a.chunk.js",
+    "static/css/main.8b084fcb.chunk.css",
+    "static/js/main.499143fc.chunk.js"
+  ]
+}
