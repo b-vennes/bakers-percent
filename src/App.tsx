@@ -6,6 +6,7 @@ import {Chart} from './Chart/Chart';
 const App = (): JSX.Element => {
   return (
     <div className="App">
+      <h1>Baker&apos;s Percentages</h1>
       <Chart />
     </div>
   );
