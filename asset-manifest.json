@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bakers-percent/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bakers-percent/static/js/main.13a6da6d.chunk.js",
-    "main.js.map": "/bakers-percent/static/js/main.13a6da6d.chunk.js.map",
+    "main.js": "/bakers-percent/static/js/main.e792ab9d.chunk.js",
+    "main.js.map": "/bakers-percent/static/js/main.e792ab9d.chunk.js.map",
     "runtime-main.js": "/bakers-percent/static/js/runtime-main.7cc2ee23.js",
     "runtime-main.js.map": "/bakers-percent/static/js/runtime-main.7cc2ee23.js.map",
-    "static/js/2.621be8d5.chunk.js": "/bakers-percent/static/js/2.621be8d5.chunk.js",
-    "static/js/2.621be8d5.chunk.js.map": "/bakers-percent/static/js/2.621be8d5.chunk.js.map",
+    "static/js/2.8baa8e96.chunk.js": "/bakers-percent/static/js/2.8baa8e96.chunk.js",
+    "static/js/2.8baa8e96.chunk.js.map": "/bakers-percent/static/js/2.8baa8e96.chunk.js.map",
     "index.html": "/bakers-percent/index.html",
-    "precache-manifest.e4c471cde366d01096d33d6041703b48.js": "/bakers-percent/precache-manifest.e4c471cde366d01096d33d6041703b48.js",
+    "precache-manifest.a3b3f9c3fc26d54173834de35c4dfa38.js": "/bakers-percent/precache-manifest.a3b3f9c3fc26d54173834de35c4dfa38.js",
     "service-worker.js": "/bakers-percent/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/bakers-percent/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.621be8d5.chunk.js.LICENSE.txt": "/bakers-percent/static/js/2.621be8d5.chunk.js.LICENSE.txt"
+    "static/js/2.8baa8e96.chunk.js.LICENSE.txt": "/bakers-percent/static/js/2.8baa8e96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7cc2ee23.js",
-    "static/js/2.621be8d5.chunk.js",
+    "static/js/2.8baa8e96.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.13a6da6d.chunk.js"
+    "static/js/main.e792ab9d.chunk.js"
   ]
 }

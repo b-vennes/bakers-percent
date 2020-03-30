@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b22a78f157665070ca5e6b05686a010",
+    "revision": "781886098a8f106f432bbe9b5e3a3e93",
     "url": "/bakers-percent/index.html"
   },
   {
-    "revision": "7361be698213ba1b3d86",
+    "revision": "a85cabfdd858a214626d",
     "url": "/bakers-percent/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "d6107170403cc08571fa",
-    "url": "/bakers-percent/static/js/2.621be8d5.chunk.js"
+    "revision": "b347a0a55a54580a18d1",
+    "url": "/bakers-percent/static/js/2.8baa8e96.chunk.js"
   },
   {
     "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/bakers-percent/static/js/2.621be8d5.chunk.js.LICENSE.txt"
+    "url": "/bakers-percent/static/js/2.8baa8e96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7361be698213ba1b3d86",
-    "url": "/bakers-percent/static/js/main.13a6da6d.chunk.js"
+    "revision": "a85cabfdd858a214626d",
+    "url": "/bakers-percent/static/js/main.e792ab9d.chunk.js"
   },
   {
     "revision": "258f48c80dc0c46c3526",
