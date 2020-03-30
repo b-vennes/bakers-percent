@@ -1,14 +1,14 @@
 import React from 'react';
 
 import './App.css';
-import { Chart } from './Chart/Chart';
+import {Chart} from './Chart/Chart';
 
-function App() {
+const App = (): JSX.Element => {
   return (
     <div className="App">
-      <Chart/>
+      <Chart />
     </div>
   );
-}
+};
 
 export default App;
